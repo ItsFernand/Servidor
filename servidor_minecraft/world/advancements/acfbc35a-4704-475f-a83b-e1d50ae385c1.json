@@ -1,0 +1,33 @@
+{
+  "gamerz_riot:root": {
+    "criteria": {
+      "tick": "2025-04-17 16:00:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-17 16:00:52 -0500"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-04-17 16:00:52 -0500"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-04-17 16:00:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-04-17 16:00:53 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 3953
+}
